@@ -3,7 +3,7 @@
 - bank account: ![Screenshot from 2024-05-21 17-42-40](https://github.com/sokol-nastasya/finance-tracker/assets/14853242/c3907b2f-a7ad-436f-b4f5-16daa80920c5)
 - add new expenses: ![Screenshot from 2024-05-21 17-43-05](https://github.com/sokol-nastasya/finance-tracker/assets/14853242/9718c0a0-dc9f-4b59-8c9e-8bc00a850ac7)
 - add bank account: ![Screenshot from 2024-05-21 17-43-17](https://github.com/sokol-nastasya/finance-tracker/assets/14853242/83ccc429-0f57-4bf3-9d6c-6d103fc16a14)
-- goals pages: ![Screenshot from 2024-05-21 17-43-17](https://github.com/sokol-nastasya/finance-tracker/assets/14853242/5783f49d-9128-49c7-9a98-29f2af40f4f1)
+- goals pages: ![Screenshot from 2024-05-21 17-43-28](https://github.com/sokol-nastasya/finance-tracker/assets/14853242/3debb242-c426-4df3-8736-d0bd047fde16)
 --  ![Screenshot from 2024-05-21 17-43-33](https://github.com/sokol-nastasya/finance-tracker/assets/14853242/f78fa9bd-6328-4bde-8b05-4513271c9ded)
 
 
