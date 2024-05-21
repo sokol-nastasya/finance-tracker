@@ -1,5 +1,5 @@
 # **Finance Tracker**
-- main page: file:///home/anastasiia/Pictures/Screenshots/Screenshot%20from%202024-05-21%2017-42-24.png
+- main page: ![Screenshot from 2024-05-21 17-42-24](https://github.com/sokol-nastasya/finance-tracker/assets/14853242/41af0f6d-3f77-4e54-b648-fc9720cc7fb9)
 - bank account: ![Screenshot from 2024-05-21 17-42-40](https://github.com/sokol-nastasya/finance-tracker/assets/14853242/c3907b2f-a7ad-436f-b4f5-16daa80920c5)
 - add new expenses: ![Screenshot from 2024-05-21 17-42-40](https://github.com/sokol-nastasya/finance-tracker/assets/14853242/8b937325-40dd-48fb-854c-55d1569a17a1)
 - add bank account: ![Screenshot from 2024-05-21 17-43-17](https://github.com/sokol-nastasya/finance-tracker/assets/14853242/83ccc429-0f57-4bf3-9d6c-6d103fc16a14)
