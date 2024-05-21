@@ -1,0 +1,72 @@
+.expense-container {
+    margin-top: 20px;
+}
+
+.title-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.expense {
+    display: flex;
+    flex-direction: row;
+}
+
+.expense > p {
+    margin-top: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.add-expenses {
+    display: block;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.input-expenses {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+.add-expenses-btn {
+    padding: 5px 10px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: #ccd5ae;
+}
+
+.add-btn {
+    margin: 10px;
+}
+
+.form {
+    visibility: hidden;
+}
+
+button {
+    border-radius: 50%;
+    padding: 10px;
+    background-color: #ccd5ae;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.btn-plus {
+    text-align: right;
+}

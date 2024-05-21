@@ -1,0 +1,40 @@
+.goals-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.score {
+    display: flex;
+    align-items: flex-start;
+}
+
+.score img {
+    width: 50px;
+    margin-right: 8px;
+}
+
+.score p {
+    font-size: 23px;
+}
+
+.goal-note {
+    font-style: italic;
+}
+
+.goals-title {
+    text-align: center;
+}
+
+.goals-details {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.goals-achive {
+    width: 10%;
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 5px 10px;
+}

@@ -1,0 +1,46 @@
+.goals-cards {
+    display: flex;
+    
+}
+
+.card {
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    width: 30%;
+}
+
+.title {
+    display: flex;
+    align-items: flex-start;
+    justify-content: start;
+
+}
+
+.card:hover {
+    background-color: #edede9;
+    cursor: pointer;
+}
+
+.goals-img {
+    width: 50px;
+    margin-right: 8px;
+}
+
+.goals-img-mini {
+    margin-right: 8px;
+    width: 40px;
+}
+
+button {
+    background-color: white;
+    padding: 10px 5px;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.goals-icon {
+    display: flex;
+}

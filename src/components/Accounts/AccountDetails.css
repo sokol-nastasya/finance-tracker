@@ -1,0 +1,53 @@
+.details {
+    text-align: center;
+}
+
+.bank-card {
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 5px 15px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+    background-color: #f5ebe0;
+}
+
+.bank-title {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+
+.bank-main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.bank-owner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.score {
+    font-weight: bold;
+}
+
+.card-num {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card-owner {
+    font-style: italic;
+}
+
+h3 {
+    font-style: italic;
+    font-size: 23px;
+}
+

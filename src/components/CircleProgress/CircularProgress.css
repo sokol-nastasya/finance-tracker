@@ -1,0 +1,15 @@
+.circle {
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+
+svg {
+    transform: rotate(0deg);
+}
+
+circle {
+    transition: stroke-dashoffset 0.35s;
+    transform: rotate(0.25turn);
+    transform-origin: 50% 50%;
+}
